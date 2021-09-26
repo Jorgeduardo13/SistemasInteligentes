@@ -1,0 +1,3 @@
+Este es el link que contiene los archivos de los notebooks de los retos, los videos y los documentos de la clase de sistemas inteligentes 2021-03.
+
+https://github.com/Jorgeduardo13/SistemasInteligentes
